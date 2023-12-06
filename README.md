@@ -4,8 +4,8 @@ This repository contains a Python-based hand tracking project that utilizes the 
 
 ## Project Structure
 
-- **HandTrackingModule.py**: This script defines a 'handDetector' class that encapsulates the functionality needed to detect hands and their landmarks using MediaPipe. It offers methods for finding hands in images and determining the positions of hand landmarks.
-- **HandTracking.py**: This script uses the 'handDetector' class to perform real-time hand tracking. It captures video from a webcam, processes the frames to find hand landmarks, and displays the results in a real-time video stream.
+- **HandTrackingModule.py**: This script defines a `handDetector` class that encapsulates the functionality needed to detect hands and their landmarks using MediaPipe. It offers methods for finding hands in images and determining the positions of hand landmarks.
+- **HandTracking.py**: This script uses the `handDetector` class to perform real-time hand tracking. It captures video from a webcam, processes the frames to find hand landmarks, and displays the results in a real-time video stream.
 
 ## Features
 
