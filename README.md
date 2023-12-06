@@ -24,7 +24,8 @@ This repository contains a Python-based hand tracking project that utilizes the 
 
 1. Clone the repository.
 2. Install required libraries:
-   pip install opencv-python mediapipe
+   
+   `pip install opencv-python mediapipe`
 
 
 ### Usage
